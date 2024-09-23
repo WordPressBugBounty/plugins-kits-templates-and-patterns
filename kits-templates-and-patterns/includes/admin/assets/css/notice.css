@@ -1,0 +1,43 @@
+.getbowtied-kits-templates-and-patterns-notice {
+	position: relative;
+	padding: 6px 40px 6px 12px;
+}
+
+.getbowtied-kits-templates-and-patterns-notice .links {
+	margin: 0.5em 0;
+}
+
+.getbowtied-kits-templates-and-patterns-notice .links a {
+	margin: 2px;
+}
+
+.getbowtied-kits-templates-and-patterns-notice .links a > span {
+	vertical-align: middle;
+}
+
+.getbowtied-kits-templates-and-patterns-notice .notice-dismiss {
+	text-decoration: none;
+}
+
+.kits-templates-and-patterns-system-status .kits-templates-and-patterns-status-table  {
+	margin-bottom: 1em;
+}
+
+.kits-templates-and-patterns-system-status .kits-templates-and-patterns-status-table tbody td:first-child {
+	width: 25%;
+}
+
+#system-status-report textarea {
+	width: 100%;
+	height: 350px;
+	padding: 1em;
+}
+
+.kits-templates-and-patterns-status-report .submit {
+	margin: 1em 0 0;
+	padding: 0;
+}
+
+.kits-templates-and-patterns-faq-wrapper .faq p {
+	margin-bottom: 0;
+}
