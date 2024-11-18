@@ -15,16 +15,16 @@
 	.kits-templates-and-patterns {
 		.wp-filter {
 			padding: 0 20px;
+			display: flex;
+			align-items: center;
 
 			.search-form {
 				margin-left: 1em;
 			}
 
 			.filter-section {
-				float: left;
-
 				&.right {
-					float: right;
+					margin-left: auto;
 				}
 			}
 

@@ -26,15 +26,18 @@
  */
 .appearance_page_kits-templates-and-patterns .kits-templates-and-patterns .wp-filter {
   padding: 0 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
 .appearance_page_kits-templates-and-patterns .kits-templates-and-patterns .wp-filter .search-form {
   margin-left: 1em;
 }
-.appearance_page_kits-templates-and-patterns .kits-templates-and-patterns .wp-filter .filter-section {
-  float: left;
-}
 .appearance_page_kits-templates-and-patterns .kits-templates-and-patterns .wp-filter .filter-section.right {
-  float: right;
+  margin-left: auto;
 }
 .appearance_page_kits-templates-and-patterns .kits-templates-and-patterns .wp-filter .filter-links li > a:focus {
   -webkit-box-shadow: none;
