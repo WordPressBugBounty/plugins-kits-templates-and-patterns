@@ -3,7 +3,7 @@
  * Plugin Name: Kits, Templates and Patterns
  * Plugin URI: https://getbowtied.com
  * Description: Import Kits, Templates and Patterns with just one click.
- * Version: 2.2
+ * Version: 3.0
  * Author: Get Bowtied
  * Author URI: https://getbowtied.com
  * License: GPLv3 or later
